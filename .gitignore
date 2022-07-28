@@ -1,2 +1,4 @@
 env/
 .ipynb_checkpoint/
+test/
+train/

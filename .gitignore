@@ -2,3 +2,4 @@ env/
 .ipynb_checkpoint/
 test/
 train/
+Bulldozer_price_prediction/data/
